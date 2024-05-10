@@ -3,6 +3,10 @@ img {
     height: auto;
 }
 
+* {
+    outline: 2px;
+}
+
 h2 {
     color: aqua;
 }
